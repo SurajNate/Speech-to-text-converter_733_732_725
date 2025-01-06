@@ -7,6 +7,7 @@ numpy==2.0.2
 packaging==24.2
 pillow==11.1.0
 platformdirs==4.3.6
+protobuf>=3.12,<4
 protobuf==5.29.2
 pyarrow==18.1.0
 pycparser==2.22
